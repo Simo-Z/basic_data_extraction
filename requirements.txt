@@ -1,0 +1,8 @@
+pandas
+polars
+plotly
+requests
+nbformat
+matplotlib
+python-dotenv
+altair
